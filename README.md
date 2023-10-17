@@ -1,7 +1,7 @@
 
 
 
-<p align="center">Luca Gabriel Borges Lima <br><br> Data Analyst.<br><p align="center"> focused on learning and solving challenges. </p></p>&nbsp;
+<p align="center">(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username})Luca Gabriel Borges Lima <br><br> Data Analyst.<br><p align="center"> focused on learning and solving challenges. </p></p>&nbsp;
 
 ## My Skills
 
