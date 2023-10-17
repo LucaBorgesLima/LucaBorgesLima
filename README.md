@@ -1,7 +1,7 @@
 
 
 
-<p align="center">Luca Gabriel Borges Lima <br><br> starting my career as a back end developer using django.<br><p align="center"> focused on learning and solving challenges. </p></p>&nbsp;
+<p align="center">Luca Gabriel Borges Lima <br><br> Data Analyst.<br><p align="center"> focused on learning and solving challenges. </p></p>&nbsp;
 
 ## My Skills
 
