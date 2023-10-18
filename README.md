@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Ploty](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
-![SQLServer](https://img.shields.io/badge/SQLServer-07405E?style=for-the-badge&logo=sqlserver&logoColor=white)&nbsp;
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -21,8 +21,6 @@
 
 #### Studying in this moment:
 ![SQLServer](https://img.shields.io/badge/SQLServer-07405E?style=for-the-badge&logo=sqlserver&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 
 #### Workstation Tools:
@@ -35,9 +33,9 @@
 ## Contacts:
 
 <div> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+
 <a href = "luccaborges23@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 </div>&nbsp;&nbsp;
