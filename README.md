@@ -1,5 +1,6 @@
 
-<p align="center">Luca Gabriel Borges Lima <br><br> Data Analyst.<br><p align="center"> focused on learning and solving challenges. </p></p>&nbsp;
+<p align="center">
+Olá! Meu nome é  Luca Gabriel Borges Lima <p align="center"> Atualmente estou me dedicando aos estudos em Análise e Desenvolvimento de Sistemas, com um foco especial na área de Análise de Dados. </p></p>&nbsp;
 
 ## My Skills
 
