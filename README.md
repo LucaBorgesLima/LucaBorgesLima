@@ -1,6 +1,6 @@
 
 <p align="center">
-Olá! Meu nome é  Luca Gabriel Borges Lima <p align="center"> Atualmente estou me dedicando aos estudos em Análise e Desenvolvimento de Sistemas, com um foco especial na área de Análise de Dados. </p></p>&nbsp;
+Olá! Meu nome é Luca, e estou cursando Análise e Desenvolvimento de Sistemas. Tenho um forte foco no desenvolvimento de software backend, especialmente utilizando Node.js e Express. Possuo conhecimentos sólidos em bancos de dados, como MySQL e SQL Server, além de experiência em integração de APIs. </p></p>&nbsp;
 
 ## My Skills
 
