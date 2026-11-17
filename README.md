@@ -1,5 +1,11 @@
 <p align="center">
-  Olá! Meu nome é Luca, e estou cursando Análise e Desenvolvimento de Sistemas. Tenho um forte foco no desenvolvimento de software backend, especialmente utilizando Node.js e Express. Possuo conhecimentos sólidos em bancos de dados, como MySQL e SQL Server, além de experiência em integração de APIs.
+Atualmente faço parte da equipe de eventos da Zig The Global Funtech, atuando como Supervisor de Operações. Minha experiência envolve onboard e implementação de sistemas B2B em estabelecimentos, além de treinamento e suporte para equipes e clientes. Contribuo diretamente para a excelência operacional em grandes eventos, festivais e arenas.
+📚 "Estou em constante evolução acadêmica, estudando Análise e Desenvolvimento de Sistemas, sempre em busca de ampliar meu conhecimento e crescimento profissional."
+🔑 Principais competências:
+📊 Análise e extração de dados
+📈 Criação de dashboards para visualização de insights
+🎯 Definição e acompanhamento de KPIs e OKRs
+⚙️ Gestão de operações
 </p>
 
 ## My Skills
