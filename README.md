@@ -13,9 +13,7 @@ Atualmente faço parte da equipe de eventos da Zig The Global Funtech, atuando c
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js Badge">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
   <img src="https://img.shields.io/badge/SQLServer-07405E?style=for-the-badge&logo=sqlserver&logoColor=white" alt="SQL Server Badge">
 </div>
